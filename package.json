@@ -1,8 +1,8 @@
 {
-    "name": "helloworld",
-    "displayName": "HelloCordova",
+    "name": "inappbroswer",
+    "displayName": "InAppBrowser",
     "version": "1.0.0",
-    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "description": "A sample Apache Cordova application that shows InAppBrowser Demo.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
